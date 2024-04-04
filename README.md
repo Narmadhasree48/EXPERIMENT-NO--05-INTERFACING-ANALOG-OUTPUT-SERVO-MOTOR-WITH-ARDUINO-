@@ -51,8 +51,6 @@ CIRCUIT DIAGRAM
 7.	Open the file of the program  and verify the error , clear if any errors that are existing 
 8.	Upload the program and check for the physical working. 
 9.	Ensure safety before powering up the device.
-
-
 ### PROGRAM :
 ````
 #include<Servo.h>
