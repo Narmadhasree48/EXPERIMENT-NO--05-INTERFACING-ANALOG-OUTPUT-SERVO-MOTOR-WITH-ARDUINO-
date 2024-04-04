@@ -16,6 +16,7 @@ COMPONENTS REQUIRED:
 5.	Connecting wires 
 6.	Servo rated power supply (dc source )
 
+
 ### THEORY
 
 Servo motors and are constructed out of basic DC motors, by adding:
@@ -25,7 +26,10 @@ Servo motors and are constructed out of basic DC motors, by adding:
 Typically, a potentiometer (variable resistor) measures the position of the output shaft at all times so the controller can accurately place and maintain its setting.
 Servo motors are used for angular positioning, such as in radio control airplanes.  They typically have a movement range of 180 deg but can go up to 210 deg.The output shaft of a servo does not rotate freely, but rather is made to seek a particular angular position under electronic control. 
 
+
 ![image](https://user-images.githubusercontent.com/36288975/163544439-1f477927-fcd4-42f0-9ce4-c863fdbf1210.png)
+
+
 #### Figure-01 SERVO MOTOR SPLIT VIEW 
 Control 
 An external controller (such as the Arduino) tells the servo where to go with a signal know as pulse proportional modulation (PPM) or pulse code modulation (which is often confused with pulse width modulation, PWM). PWM uses 1 to 2ms out of a 20ms time period to encode its information.
@@ -41,10 +45,13 @@ CIRCUIT DIAGRAM
   ![image](https://user-images.githubusercontent.com/36288975/163544618-6eb8a7b5-7f1a-428a-8d9f-fd899b145efb.png)
 ### FIGURE 04 CIRCUIT DIAGRAM
 ## GREEN:
+
 ![Screenshot 2024-04-04 082108](https://github.com/Narmadhasree48/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144979451/246b4bf0-2d19-4939-9d61-adaf33a9d81c)
 ## RED:
+
 ![Screenshot 2024-04-04 083214](https://github.com/Narmadhasree48/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144979451/79a9253b-37ce-40e3-82e0-43b4003a3169)
 ## SCHEMATIC VIEW:
+
 ![Screenshot 2024-04-02 084959](https://github.com/Narmadhasree48/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144979451/22345f69-de62-4c86-b6f6-a5fa833b1ab6)
 ## GRAPHICAL REPRESENTATION
 ![Screenshot 2024-04-02 084850](https://github.com/Narmadhasree48/EXPERIMENT-NO--05-INTERFACING-ANALOG-OUTPUT-SERVO-MOTOR-WITH-ARDUINO-/assets/144979451/ff2ee9e5-d569-46b2-91c3-c4cc9d7e539e)
